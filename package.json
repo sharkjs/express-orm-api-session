@@ -1,0 +1,9 @@
+{
+	"name": "express-orm-api-session",
+	"version": "0.0.1",
+	"description": "Express+ORM2 /api/session",
+	"github": "Nami-Doc/express-orm-api-session",
+	"dependencies": {
+		"express": "3.2.4"
+	}
+}
